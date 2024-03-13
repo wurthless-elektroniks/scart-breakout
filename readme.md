@@ -19,7 +19,7 @@ For the status LED:
 
 ## Boring Ass Schematic
 
-![](boring.png)
+![](snore.png)
 
 ## Ribbon connector pinout
 
